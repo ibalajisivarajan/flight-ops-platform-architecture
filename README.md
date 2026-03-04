@@ -9,6 +9,8 @@
 
 ## 📐 Architecture Overview
 
+[![Flight Ops Architecture Diagram](./preview.png)](https://ibalajisivarajan.github.io/flight-ops-platform-architecture/)
+
 [![View Interactive Diagram](https://img.shields.io/badge/View%20Interactive%20Diagram-Click%20Here-00c8ff?style=for-the-badge)](https://ibalajisivarajan.github.io/flight-ops-platform-architecture/)
 
 > Open `flight-ops-architecture.html` in a browser for the full interactive diagram.
