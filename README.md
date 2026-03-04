@@ -9,7 +9,7 @@
 
 ## 📐 Architecture Overview
 
-![Architecture Diagram](https://htmlpreview.github.io/?https://github.com/ibalajisivarajan/flight-ops-platform-architecture/blob/main/flight-ops-architecture.html)
+[![Architecture Diagram](https://img.shields.io/badge/View%20Interactive%20Diagram-Click%20Here-00c8ff?style=for-the-badge)](https://htmlpreview.github.io/?https://github.com/ibalajisivarajan/flight-ops-platform-architecture/blob/main/flight-ops-architecture.html)
 > Open `flight-ops-architecture.html` in a browser for the full interactive diagram.
 
 The platform is organized into **7 horizontal layers**, each independently deployable and domain-isolated:
