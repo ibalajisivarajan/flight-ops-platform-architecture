@@ -9,7 +9,7 @@
 
 ## 📐 Architecture Overview
 
-![Architecture Diagram](https://ibalajisivarajan.github.io/flight-ops-platform-architecture/flight-ops-architecture.html)
+![Architecture Diagram](https://htmlpreview.github.io/?https://github.com/ibalajisivarajan/flight-ops-platform-architecture/blob/main/flight-ops-architecture.html)
 > Open `flight-ops-architecture.html` in a browser for the full interactive diagram.
 
 The platform is organized into **7 horizontal layers**, each independently deployable and domain-isolated:
